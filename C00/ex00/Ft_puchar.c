@@ -8,3 +8,4 @@ int main(void)
 {
     ft_putchar('a');
 }
+
